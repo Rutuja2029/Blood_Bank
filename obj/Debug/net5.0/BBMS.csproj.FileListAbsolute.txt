@@ -1,0 +1,120 @@
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\appsettings.json
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\BBMS.exe
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\BBMS.deps.json
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\BBMS.runtimeconfig.json
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\BBMS.runtimeconfig.dev.json
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\BBMS.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\ref\BBMS.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\BBMS.pdb
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sarvesh\source\repos\BBMS\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sarvesh\source\repos\BBMS\obj\Debug\net5.0\BBMS.csproj.AssemblyReference.cache
+C:\Users\Sarvesh\source\repos\BBMS\obj\Debug\net5.0\BBMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarvesh\source\repos\BBMS\obj\Debug\net5.0\BBMS.AssemblyInfoInputs.cache
+C:\Users\Sarvesh\source\repos\BBMS\obj\Debug\net5.0\BBMS.AssemblyInfo.cs
+C:\Users\Sarvesh\source\repos\BBMS\obj\Debug\net5.0\BBMS.csproj.CoreCompileInputs.cache
+C:\Users\Sarvesh\source\repos\BBMS\obj\Debug\net5.0\BBMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sarvesh\source\repos\BBMS\obj\Debug\net5.0\BBMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sarvesh\source\repos\BBMS\obj\Debug\net5.0\scopedcss\bundle\BBMS.styles.css
+C:\Users\Sarvesh\source\repos\BBMS\obj\Debug\net5.0\staticwebassets\BBMS.StaticWebAssets.Manifest.cache
+C:\Users\Sarvesh\source\repos\BBMS\obj\Debug\net5.0\BBMS.RazorTargetAssemblyInfo.cache
+C:\Users\Sarvesh\source\repos\BBMS\obj\Debug\net5.0\BBMS.csproj.CopyComplete
+C:\Users\Sarvesh\source\repos\BBMS\obj\Debug\net5.0\BBMS.dll
+C:\Users\Sarvesh\source\repos\BBMS\obj\Debug\net5.0\ref\BBMS.dll
+C:\Users\Sarvesh\source\repos\BBMS\obj\Debug\net5.0\BBMS.pdb
+C:\Users\Sarvesh\source\repos\BBMS\obj\Debug\net5.0\BBMS.genruntimeconfig.cache
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\appsettings.Development.json
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\appsettings.json
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\BBMS.exe
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\BBMS.deps.json
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\BBMS.runtimeconfig.json
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\BBMS.runtimeconfig.dev.json
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\BBMS.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\ref\BBMS.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\BBMS.pdb
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Humanizer.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Bllod Bank Mangment System\New folder\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Bllod Bank Mangment System\New folder\obj\Debug\net5.0\BBMS.csproj.AssemblyReference.cache
+F:\Bllod Bank Mangment System\New folder\obj\Debug\net5.0\BBMS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Bllod Bank Mangment System\New folder\obj\Debug\net5.0\BBMS.AssemblyInfoInputs.cache
+F:\Bllod Bank Mangment System\New folder\obj\Debug\net5.0\BBMS.AssemblyInfo.cs
+F:\Bllod Bank Mangment System\New folder\obj\Debug\net5.0\BBMS.csproj.CoreCompileInputs.cache
+F:\Bllod Bank Mangment System\New folder\obj\Debug\net5.0\BBMS.MvcApplicationPartsAssemblyInfo.cs
+F:\Bllod Bank Mangment System\New folder\obj\Debug\net5.0\BBMS.MvcApplicationPartsAssemblyInfo.cache
+F:\Bllod Bank Mangment System\New folder\obj\Debug\net5.0\scopedcss\bundle\BBMS.styles.css
+F:\Bllod Bank Mangment System\New folder\obj\Debug\net5.0\staticwebassets\BBMS.StaticWebAssets.Manifest.cache
+F:\Bllod Bank Mangment System\New folder\obj\Debug\net5.0\BBMS.RazorTargetAssemblyInfo.cache
+F:\Bllod Bank Mangment System\New folder\obj\Debug\net5.0\BBMS.csproj.CopyComplete
+F:\Bllod Bank Mangment System\New folder\obj\Debug\net5.0\BBMS.dll
+F:\Bllod Bank Mangment System\New folder\obj\Debug\net5.0\ref\BBMS.dll
+F:\Bllod Bank Mangment System\New folder\obj\Debug\net5.0\BBMS.pdb
+F:\Bllod Bank Mangment System\New folder\obj\Debug\net5.0\BBMS.genruntimeconfig.cache

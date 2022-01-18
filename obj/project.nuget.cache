@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mIBTYQOhA2phUwSGWlzW2AuDAscvwvttC2amubpfzy9ENC1tXxgzTIjk8sP5XL6AnnU4kt6q913m/ceeDY1tuA==",
+  "dgSpecHash": "9hvuh1Y3GS0j4zsvMv9vru9pALzAl84aAIZVmSbDr9GLFxaCqE7BtmLhjh8zINEfGNWzGSrhegYG5QZBlrmvOg==",
   "success": true,
-  "projectFilePath": "F:\\Bllod Bank Mangment System\\New folder\\BBMS.csproj",
+  "projectFilePath": "F:\\Bllod Bank Mangment System\\Azure_BloodBank\\BBMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

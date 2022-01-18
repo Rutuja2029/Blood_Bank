@@ -20,15 +20,18 @@ namespace BBMS.Repositories
             _context.SaveChanges();
             return 1;
         }
-        // To delete request (only Admin has access) 
+        // To delete request 
         public int DeleteRequest(int id)
         {
             var request =  _context.Requests.Where(requests=> requests.RequestId == id).SingleOrDefault();
             _context.Requests.Remove(request);
+            _context.SaveChanges();
             return 1;
         
         }
         // To get All requests made by hospital 
+
+
         public async Task<IEnumerable<Request>> GetAllRequests()
         {
             return await _context.Requests.ToListAsync();

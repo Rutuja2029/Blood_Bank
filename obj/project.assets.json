@@ -5987,11 +5987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Bllod Bank Mangment System\\New folder\\BBMS.csproj",
+      "projectUniqueName": "F:\\Bllod Bank Mangment System\\Azure_BloodBank\\BBMS.csproj",
       "projectName": "BBMS",
-      "projectPath": "F:\\Bllod Bank Mangment System\\New folder\\BBMS.csproj",
+      "projectPath": "F:\\Bllod Bank Mangment System\\Azure_BloodBank\\BBMS.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "F:\\Bllod Bank Mangment System\\New folder\\obj\\",
+      "outputPath": "F:\\Bllod Bank Mangment System\\Azure_BloodBank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

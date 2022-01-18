@@ -1,5 +1,6 @@
 ﻿using BBMS.Models;
 using BBMS.Repositories;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace BBMS.Services
@@ -17,5 +18,26 @@ namespace BBMS.Services
         {
             return await _adminRepository.CheckIfAdminIsValid(email, password);
         }
+        public async Task<IEnumerable<Admin>> GetAllAdmin()
+        {
+            return await _adminRepository.GetAllAdmin();
+        }
+        public int AddAdmin(Admin admin)
+        {
+            return _adminRepository.AddAdmin(admin);
+        }
+        public int DeleteAdmin(int id)
+        {
+            return _adminRepository.DeleteAdmin(id);
+        }
+        public int UpdateAdmin(Admin admin)
+        {
+            return _adminRepository.UpdateAdmin(admin);
+        }
+        public async Task<Admin> GetAdminById(int id)
+        {
+            return await _adminRepository.GetAdminById(id);
+        }
     }
+
 }
